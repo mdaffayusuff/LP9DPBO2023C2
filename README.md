@@ -15,7 +15,5 @@ yang telah dispesifikasikan. Aamiin.
 - Untuk melihat detail masing-masing, klik tombol **Detail** untuk melihat detail salah satu data yang dipilih
 - Detail akan menampilkan sumary yang berisi jenis hunian, jumlah kamar, jumlah penghuni, dan dokumen setra gambar dari hunian
 
-
-
-https://github.com/mdaffayusuff/LP9DPBO2023C2/assets/95558620/1d4e9ac8-5828-4143-bcd1-feb1919b962b
+https://github.com/mdaffayusuff/LP9DPBO2023C2/assets/95558620/97dc479b-53e6-4e8b-a6ac-f1e5077f54c4
 
